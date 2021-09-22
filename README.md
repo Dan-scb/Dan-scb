@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dan-scb
+- 👋 Hi, I’m @Daniel
 - 👀 I’m interested in ... Node
 - 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on ...community projects
