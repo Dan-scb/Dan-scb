@@ -1,7 +1,7 @@
 - **😃Olá! sou o Daniel**
   ##
 - 👀 Estudando JavaScript
-- 🌱 Atualmente estudo bastante desnvolvimento Web com JavaScript 
+
 
 
 
